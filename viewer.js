@@ -16,7 +16,7 @@
 
 'use strict';
 
-var DEFAULT_URL = 'javanotes7-linked.pdf';
+var DEFAULT_URL = 'syllabus.pdf';
 
   var pdfjsWebLibs = {
     pdfjsWebPDFJS: window.pdfjsDistBuildPdf
